@@ -1,0 +1,54 @@
+body {
+    background-image: url(/images/texture.png);
+    margin: 5% auto;
+    font-family: 'Merienda', cursive;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+code {
+    font-family: 'Merienda', cursive;
+ }
+
+ h1 {
+     text-align: center;
+ }
+ .todo-list {
+     background: #e8e8e8;
+     border-radius: 4px;
+     padding: 5px;
+     max-width: 400px;
+ }
+
+ .task {
+    width: 100%;
+    box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
+    padding: 3px 10px;
+    font-size: 24px;
+    margin-bottom: 6px;
+    border-radius: 3px;
+    align-items: center;
+    justify-content: space-between;
+ }
+
+ .input {
+    width: 100%;
+    box-sizing: border-box;
+    border: 1;
+    border-radius: 4px;
+    box-shadow: none;
+    padding: 1rem;
+    height: 2.25em;
+    font-size: 24px;
+ }
+
+ #normal {
+     text-decoration: none;
+ }
+
+ #strike {
+     text-decoration: line-through;
+ }
+
+ .d-flex {
+    background-image: url(/images/texture.png);
+ }
