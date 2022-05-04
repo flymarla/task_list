@@ -10,7 +10,7 @@ This App allows the user to create a to-do list.
 * When a task is checked off it will change the font to strike-through.
 * If a user hits the enter button they will be alerted to press tab or use the submit button
 
-><img src="/images/texture.png" alt="to-do list with four items" width="300" height="500"/>
+><img src="/images/to-do-list screenshot.png" alt="to-do list with four items" width="300" height="500"/>
 
 ## How to Run
 
